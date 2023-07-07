@@ -2,10 +2,6 @@
 
 arq1 = open('arquivos/arquivo.txt','r')
 
-# \ de windows
-# / de linux
-
-## Ler o arquivo
 
 print(arq1.read())
 
